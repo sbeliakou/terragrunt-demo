@@ -32,3 +32,6 @@ availability_zones = tolist([
 ])
 region = "eu-west-2"
 ```
+
+
+debug
